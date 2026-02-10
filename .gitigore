@@ -1,0 +1,25 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# --- Variáveis de Ambiente (SEGURANÇA) ---
+.env
+.env.local
+
+# --- Selenium / Drivers ---
+# Ignora o driver se ele estiver na pasta do projeto (recomendado baixar localmente)
+*.exe
+*.log
+Ghostdriver.log
+
+# --- IDEs ---
+.vscode/
+.idea/
+
+# --- Sistema Operacional ---
+Thumbs.db
+desktop.ini
