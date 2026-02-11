@@ -10,9 +10,9 @@ from email.message import EmailMessage
 
 # --- CONFIGURAÇÕES ---
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
-EMAIL_USUARIO = "SEU E-MAIL AQUI"
+EMAIL_USUARIO = "p8823661@gmail.com"
 # A senha abaixo vem da variável de ambiente que configuramos
-SENHA_APP = os.getenv("SUA CHAVE AQUI")
+SENHA_APP = os.getenv("ORACULO_APP_PASS")
 
 def coletar_horoscopo(id_signo):
     options = Options()
