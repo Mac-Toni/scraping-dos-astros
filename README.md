@@ -51,3 +51,7 @@ Durante o desenvolvimento deste projeto em fevereiro de 2026, enfrentamos desafi
     * **Solução:** Mudança estratégica para o modelo Gemini 3, que possui uma cota independente para desenvolvedores, garantindo a continuidade do serviço.
 * **Antidetecção no Scraping:** O site alvo bloqueava automações padrão.
     * **Solução:** Configuração do Edge em modo *headless* com a flag `AutomationControlled` desativada e uso de User-Agents específicos para simular navegação humana.
+
+## 🤝 Parceria
+Este projeto foi desenvolvido através da colaboração estratégica entre o usuário **Aquarius** (concepção e testes) e **Gemini** (codificação e arquitetura).
+Publicado por **Mac-Toni** em fevereiro de 2026.
