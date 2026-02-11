@@ -1,4 +1,4 @@
-![Eclíptica](C:\Users\Paulo\variosprojetos\zodiaco-digital\imagens\images.png)
+![Eclíptica](imagens\images.png)
 
 # 🔮 Oráculo Digital: Web Scraping & AI 2026
 
