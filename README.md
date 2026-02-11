@@ -1,4 +1,4 @@
-![Eclíptica](imagens\images.png)
+![Eclíptica](imagens/images.png)
 
 # 🔮 Oráculo Digital: Web Scraping & AI 2026
 
