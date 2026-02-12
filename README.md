@@ -1,6 +1,6 @@
 ![Eclíptica](imagens/images.png)
 
-# 🔮 Oráculo Digital: Web Scraping & AI 2026
+# 🔮 Oráculo Digital - O melhor dos Mundus: Web Scraping & AI 2026
 
 Este projeto é um sistema automatizado de astrologia que utiliza **Web Scraping** para coletar horóscopos diários, **Inteligência Artificial (Gemini 3)** para tradução e resumo motivacional, e um sistema de **notificação por e-mail**.
 
