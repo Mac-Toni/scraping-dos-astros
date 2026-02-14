@@ -1,11 +1,12 @@
 import os
 import time
 import smtplib
+from dotenv import load_dotenv # Adicione esta linha
 from selenium import webdriver
 from selenium.webdriver.edge.service import Service
 from selenium.webdriver.edge.options import Options
 from selenium.webdriver.common.by import By
-from google import genai
+from google import genai 
 from email.message import EmailMessage
 
 # --- CONFIGURAÇÕES ---
